@@ -62,6 +62,7 @@ class Tools {
             'm4a',
             'ncm',
             'ape',
+            'ogg'
         ];
 
         const suffix = fileName.split('.').pop();
